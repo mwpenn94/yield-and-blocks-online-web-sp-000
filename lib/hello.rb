@@ -1,5 +1,4 @@
 # call your method here!
-
 def hello_t(array)
   if block_given?
     i = 0
